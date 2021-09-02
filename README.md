@@ -1,10 +1,8 @@
-# twenty_one_days_workout
+# 21 days fat to fit
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+I just created an app for my self. This app contains my routines that follows 21 days fat to fit programme
 
 A few resources to get you started if this is your first Flutter project:
 
